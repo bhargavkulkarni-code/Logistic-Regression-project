@@ -6,4 +6,4 @@ Tools used- pandas, sklearn, logistic regression, label encoder, matplotlib, sea
 
 
 
-Outcome – The logistic regression weather forecasting project accuracy is 68% predicted weather dependent variable. 161 and 140 are true.
+Outcome – The logistic regression weather forecasting project accuracy is 68% predicted weather dependent variable. 161 and 140 are true positive.
